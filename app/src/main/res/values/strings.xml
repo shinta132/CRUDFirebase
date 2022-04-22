@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase CRUD</string>
+    <string name="nim_baru">NIM Baru</string>
+    <string name="nama_baru">Nama Baru</string>
+    <string name="jurusan_baru">Jurusan Baru</string>
+    <string name="update">Update</string>
+    <string name="image">image</string>
+    <string name="nim">NIM:</string>
+    <string name="nama">Nama:</string>
+    <string name="jurusan">Jurusan:</string>
+    <string name="login">Login</string>
+</resources>
